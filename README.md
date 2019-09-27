@@ -1,4 +1,4 @@
 # tachyons-for-adorama
-Testing tachyons for a portfolio page
+This is a one-off portfolio page for my work at Adorama. 
 
-I created a one-off webpage testing the viability of Tachyons to create a portfolio. The page is a review of work at Adorama.
+The page was created with Tachyons.io. I wanted to test how well it worked as a CSS framework.
