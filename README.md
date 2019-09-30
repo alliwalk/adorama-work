@@ -1,8 +1,6 @@
-# tachyons-for-adorama
+# Tachyons for Page Design
 
-I recently discovered Tachyons.io, a CSS design system. I used this framework to create a portfolio page to describe the work I did at Adorama a few years ago. 
-
-My goal with the page was to learn more about Tachyons and test how it works as a CSS framework.
+I recently discovered Tachyons.io, a modular CSS design library. I used this framework to create a portfolio page to describe the work I did at Adorama a few years ago. My goal with the page was to learn more about Tachyons and test how it works as a CSS framework.
 
 I used the following components, along with header, columns, and styles for typography:
 
